@@ -15,7 +15,7 @@ A few things about the operator:
 Origin      India
 Occupation  Making computers do increasingly specific things
 Interests   AI, systems, guitars, Japanese, cyberpunk
-Condition   “Wait, how does that actually work?”
+Condition   “Wait, how does that actually work?” or sometimes "Wait , why does that thing work?"
 ```
 
 Hey, I’m **Paritosh**.
@@ -38,15 +38,15 @@ Professionally, I’m an **AI systems engineer**. Personally, I’m curious abou
 
 ### Things we could talk about
 
-Computer vision. Python. Edge AI. Systems architecture. Why a camera stream needs this much RAM. Something interesting you’re building. Something interesting you broke.
+Computer vision. Python. Edge AI. Systems architecture. Something interesting you’re building. Something interesting you broke.
 
-I’m happy to compare notes, learn something new, or disappear down a sufficiently good technical rabbit hole.
+I’m happy to compare notes, learn something new, or disappear down a sufficiently good rabbit hole.
 
 ---
 
 <div align="center">
 
-**Serious about the work. Room for a little weird.**
+**Something inspirational. I guess**
 
 <sub>More about me, my work, and whatever I’m currently figuring out → [paritosh-marathe.github.io](https://paritosh-marathe.github.io/)</sub>
 
